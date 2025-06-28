@@ -34,12 +34,6 @@ composer install
 npm install && npm run dev
 php artisan key:generate
 php artisan migrate --seed
-php artisan serve
+php artisan server
 
 
-## 💬 Contact
-
-Développé par Stael DJUNE
-📍 Mbouda, Cameroun
-📧 infodjstar7@gmail.com
-📞 +237 674 693 625
