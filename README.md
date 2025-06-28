@@ -37,7 +37,7 @@ php artisan migrate --seed
 php artisan serve
 
 
-💬 Contact
+## 💬 Contact
 
 Développé par Stael DJUNE
 📍 Mbouda, Cameroun
