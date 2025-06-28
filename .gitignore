@@ -1,0 +1,6 @@
+public/assets/videos/
+*.mp4
+*.webm
+node_modules/
+vendor/
+.env
